@@ -1,1 +1,1 @@
-# news-sitemmap
+# news-sitemap
